@@ -33,3 +33,7 @@ to extract all data from a table without specifying files we usethe wildcard ope
 When you use the SELECT command the data returned is not ordered. Or more accurately it is ordered however the SQL engine orders data by default. This can change between SQL engines and also between different versions of SQL engines so it is important to never rely on the default sort order of data returned by the SELECT command.
 
 This is where the ORDER BY clause comes in. ORDER BY is used to sort data in either ascending or descending order based on one or more fields.
+
+
+# WHERE
+ The WHERE clause helps us to filter records to only the ones that match a certain condition.
