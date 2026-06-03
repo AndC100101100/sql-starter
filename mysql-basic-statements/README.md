@@ -37,3 +37,6 @@ This is where the ORDER BY clause comes in. ORDER BY is used to sort data in eit
 
 # WHERE
  The WHERE clause helps us to filter records to only the ones that match a certain condition.
+
+# DISTINCT
+Sometimes we need to return rows of data without duplicates in them. This is where the DISTINCT clause comes in.
