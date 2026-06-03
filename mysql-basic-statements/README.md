@@ -40,3 +40,7 @@ This is where the ORDER BY clause comes in. ORDER BY is used to sort data in eit
 
 # DISTINCT
 Sometimes we need to return rows of data without duplicates in them. This is where the DISTINCT clause comes in.
+
+# AS
+
+the AS keyword is usedto assign Aliases to a table or a field. An alias itself is simply a temporary name which only exists for the duration of the SQL query, and they are mainly used for readability and to add descriptiveness to our results
